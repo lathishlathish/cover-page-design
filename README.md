@@ -98,7 +98,8 @@ footer{
   }
   ```
   # output:
-  
+![image](https://user-images.githubusercontent.com/120359170/215389707-11791c0b-a477-4bf8-9d91-71be20e1e948.png)
+
 Result:
 Thus the program to develop a website to display the cover page design of a book is done.
 
